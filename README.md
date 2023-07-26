@@ -13,4 +13,4 @@ in this project could customize colors in page and customize random change image
 
 ## Live Demo
 
-https://github.com/AhmedElhamady/Special-Design.git
+https://ahmedelhamady.github.io/Special-Design/
